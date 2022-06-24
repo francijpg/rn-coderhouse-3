@@ -4,7 +4,7 @@
 
 ### Wireframe
 
-![wireframe](https://github.com/francijpg/rn-coderhouse-3/blob/main/assets/images/wireframe.png)
+![wireframe](https://github.com/francijpg/rn-coderhouse-3/blob/main/assets/images/wireframe2.0.png)
 
 ### Screenshots
 

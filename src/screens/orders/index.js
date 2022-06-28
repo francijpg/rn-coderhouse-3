@@ -1,7 +1,7 @@
 import React from "react";
 import { View, FlatList } from "react-native";
 import { styles } from "./styles";
-import { orders } from "../../data/orders";
+import { orders } from "../../data";
 import OrderItem from "../../components/orders/order-item";
 
 const Orders = () => {

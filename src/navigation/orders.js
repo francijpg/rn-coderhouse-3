@@ -1,7 +1,7 @@
 import React from "react";
 import { Platform } from "react-native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import { OrdersScreen } from "../screens/index";
+import { OrdersScreen } from "../screens";
 import { colors } from "../constants/themes/colors";
 
 const Stack = createNativeStackNavigator();

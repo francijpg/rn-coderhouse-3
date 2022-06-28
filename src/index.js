@@ -1,6 +1,5 @@
 import React from 'react';
-import { styles } from './styles';
-import AppNavigator from './navigation/index';
+import AppNavigator from './navigation';
 
 const Root = () => {
   return (

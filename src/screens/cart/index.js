@@ -1,6 +1,6 @@
 import React from "react";
 import { FlatList, TouchableOpacity, Text, View } from "react-native";
-import { cart } from "../../data/cart";
+import { cart } from "../../data";
 import { CartItem } from "../../components";
 import { styles } from "./styles";
 

@@ -1,3 +1,3 @@
-export { default as CategoryItem } from "./category-item/index";
-export { default as ProductItem } from "./product-item/index";
-export { default as CartItem } from "./cart-item/index";
+export { default as CategoryItem } from "./category-item";
+export { default as ProductItem } from "./product-item";
+export { default as CartItem } from "./cart-item";

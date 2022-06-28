@@ -1,12 +1,10 @@
 import React from "react";
-import { Platform } from "react-native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { CartScreen } from "../screens";
 import { colors } from "../constants/themes/colors";
+import { isIOS } from "../constants/utils/platform";
 
 const Stack = createNativeStackNavigator();
-
-const isIOS = Platform.OS === "ios";
 
 const CartNavigator = () => {
   return (
